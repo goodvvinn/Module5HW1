@@ -1,0 +1,7 @@
+{
+  "Url": "https://reqres.in/api",
+  "userController": "/users",
+  "registrationController": "/register",
+  "authorizationController": "/login",
+  "unknownController": "/unknown"
+}
